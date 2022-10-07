@@ -3,7 +3,7 @@
 <div class="top">
     <router-view/>
     <header role="navigation">
-      <div>Google Fonts Checker</div>
+      <div>Kickchecker</div>
       <div class="right">
         <SwitchLanguage/>
         <a href="https://github.com/54GradSoftware/google-fonts-checker/" target="_blank" rel="noreferrer" class="github" :aria-label="$t('header.linkToGithubAlt')">
